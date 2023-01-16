@@ -30,7 +30,7 @@ nc2 = net_corr(v2, m0);      % model network correlation
 
 figure
 subplot(121)
-plot(diag(nc0), diag(nc1), '.');
+plot(nc0, nc1, '.');
 xlabel('empirical network correlations');
 ylabel('model network correlations');
 title('intra-network model')
