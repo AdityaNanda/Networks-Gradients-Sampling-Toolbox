@@ -8,9 +8,9 @@ The toolbox has two main algorithms (functions):
 
 # Getting started
 
-Download or clone this repository into your preferred location. To download, simply press the _Code_ button and select _Download ZIP_.  To clone, enter `git clone https://github.com/AdityaNanda/Network-Gradient-Toolbox-NGT` on the command line.
+Download or clone this repository into your preferred location. To download, simply press the _Code_ button and select _Download ZIP_.  To clone, enter `git clone https://github.com/AdityaNanda/Networks-Gradients-Sampling-Toolbox` on the command line.
 
-To add the toolbox to the MATLAB path, use the command `addpath(genpath(path_to_nullspace_network_gradient_toolbox))` or use the _Set path_ button in the _Environment_ section of the _Home_ ribbon, and click _add with subfolders_. Now you can directly access the relevant functions.
+To add the toolbox to the MATLAB path, use the command `addpath(genpath(path_to_toolbox))` or use the _Set path_ button in the _Environment_ section of the _Home_ ribbon, and click _add with subfolders_. Now you can directly access the relevant functions.
 
 # Demo
 
