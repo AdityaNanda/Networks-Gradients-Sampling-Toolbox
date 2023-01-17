@@ -7,20 +7,21 @@ addpath('core/');
 %% load timeseries for a single subject
 
 % preprocessed and parcellated resting-state data
-% 400 x 1200 timeseries for a single subject
-% and the network affiliation vector
+% v0, timeseries of a single subject (400 x 1200)
+% m0, network affiliation vector     (400 x 1)
 
 data = load('./data/hcp_1subj.mat');
 
-v0 = data.v0;               % n x t timeseries
-v0 = zscore(v0,[],2);       % zscore data
-m0 = data.m0;               % network affiliation vector
+v0 = data.v0;                   % timeseries
+v0 = zscore(v0,[],2);           % zscore data
+m0 = data.m0;                   % network affiliation
 
 %% PCA constraints
 
 k = 2;  % number of components to be constrained
 
-v1 = gradient_sampler(v0, k); % ssample data
+% Sample data
+v1 = gradient_sampler(v0, k);
 
 % get PCA for empirical and model timeseries
 pc0 =  pca(v0', 'NumComponents', k+1);

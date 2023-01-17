@@ -1,12 +1,14 @@
 function v1 = diag_cov_sampler(d_cov, t)
-
-% This function samples n time-series
-% with a diagonal covairance matrix D. 
-% d_cov is the diagonal variance values of D
-
-% INPUTS
-% d_cov is vector of variances to be satisfied
-% t is the length of time series to be sampled
+% DIAG_COV_SAMPLER: sample timeseries with diagonal covariance matrix
+%
+%   v1 = diag_cov_sampler(d_cov, t)
+%
+% Inputs:
+%    d_cov: diagonal variance vector
+%    t:     length of sampled timeseries
+%
+% Outputs:
+%    v1:    sampled timeseries
 
 [n, ~] = size(d_cov);
 assert(all(d_cov >=0)); % check eigenvalues are positive or 0
