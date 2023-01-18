@@ -21,4 +21,4 @@ The scripts `demo_networks.m` and `demo_gradients` include demos of the two main
 
 # Reference
 
-Nanda A and Rubinov M (2023) Unbiased and Efficient Sampling of Timeseries Reveals Redundancy of Brain Network and Gradient Structure, _OSF Preprints_, (https://doi.org/10.31219/osf.io/ce9xv)[https://doi.org/10.31219/osf.io/ce9xv].
+Nanda A and Rubinov M (2023) Unbiased and Efficient Sampling of Timeseries Reveals Redundancy of Brain Network and Gradient Structure, _OSF Preprints_, https://doi.org/10.31219/osf.io/ce9xv .
