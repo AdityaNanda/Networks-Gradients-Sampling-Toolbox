@@ -20,7 +20,7 @@ The scripts `demo_networks.m` and `demo_gradients` include demos of the two main
 * A partition of this vector into 17 * 2 = 34 networks (the parcellation and partition are from Schaefer et al. (2018) https://doi.org/10.1093/cercor/bhx179).
 
 # Licence
-This software is free to use for all academic and research purposes. For details see the Licence file. 
+This software is free to use for all academic and research purposes. See the License file for details. 
 
 # Reference
 
