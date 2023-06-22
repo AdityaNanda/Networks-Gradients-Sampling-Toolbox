@@ -8,15 +8,10 @@ THE SOFTWARE IS PROVIDED AS-IS, FOR INFORMATIONAL PURPOSES ONLY, AND SHOULD NOT 
 Definitions
 
 "Agreement" means this Non-Exclusive Academic Software License Agreement.
-
 "Effective Date" means the latest date upon which this Agreement is either entered into or re-newed.
-
 "Licensing Contact" means the individual identified on the Registration Page and who shall be responsible for administering this Agreement on behalf of the Licensee.
-
 "Modifications" mean any changes or extensions introduced into the Software or otherwise based on or derived from the Software source statements by Vanderbilt. Modifications include, but are not limited to, corrections of program errors, translations and stylistic restructuring of the Software, addition or deletion of functions or enhancement of existing functions of the Software, changes or additions required to integrate the Software into other applications or to allow the Software to run under alternative operating systems or computer hardware configura-tions, and other adaptations of the Software. Licensee shall not make any Modifications.
-
 "Registration Page" means the portion of the web site used by Licensees to enter information permitting the licensing of the Software.
-
 "Software" means the current versions of the Networks Gradients Sampling Toolbox (Mikail Rubinov) software provided to Licensee, as available on the Effective Date for which the Licensee desires to obtain licenses as well as any Modifications made to the Software.
 
 1.	Grant.
