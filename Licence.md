@@ -1,4 +1,5 @@
 NETWORKS GRADIENTS SAMPLING TOOLBOX
+
 Non-Exclusive Academic Software License Agreement
 This License Agreement ("Agreement") is entered into between Vanderbilt University, a pri-vate, non-profit institution of higher education in Nashville, Tennessee with offices at 1207 17th Avenue South, Suite 105, Nashville, Tennessee 37212 ("Vanderbilt") and the person repre-senting the non-profit research and/or academic institution that registers to use the Software ("Licensee"). Prior to such registration in accordance with this Agreement, the Licensee shall have no rights or license in connection with the Software or this Agreement.
 THE SOFTWARE IS PROVIDED AS-IS, FOR INFORMATIONAL PURPOSES ONLY, AND SHOULD NOT BE USED FOR DIAGNOSTIC OR TREATMENT PURPOSES.
