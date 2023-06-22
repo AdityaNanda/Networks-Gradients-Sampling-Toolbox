@@ -19,6 +19,9 @@ The scripts `demo_networks.m` and `demo_gradients` include demos of the two main
 * A parcellated regional timeseries for one resting-state recording of one subject from the Human Connectome Project.
 * A partition of this vector into 17 * 2 = 34 networks (the parcellation and partition are from Schaefer et al. (2018) https://doi.org/10.1093/cercor/bhx179).
 
+# Licence
+This software is free to use for all academic and research purposes. For details see the Licence file. 
+
 # Reference
 
 Nanda A and Rubinov M (2023) Unbiased and Efficient Sampling of Timeseries Reveals Redundancy of Brain Network and Gradient Structure, _OSF Preprints_, https://doi.org/10.31219/osf.io/ce9xv .
