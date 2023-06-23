@@ -24,4 +24,6 @@ This software is free to use for all academic and research purposes. See the Lic
 
 # Reference
 
+Nanda, Aditya, and Mikail Rubinov. "Unbiased and efficient sampling of timeseries reveals redundancy of brain network and gradient structure." NeuroImage 274 (2023): 120110.
+
 Nanda A and Rubinov M (2023) Unbiased and Efficient Sampling of Timeseries Reveals Redundancy of Brain Network and Gradient Structure, _OSF Preprints_, https://doi.org/10.31219/osf.io/ce9xv .
